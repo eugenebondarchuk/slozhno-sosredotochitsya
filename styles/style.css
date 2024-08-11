@@ -134,6 +134,15 @@
   color: var(--headings-text-color);
 }
 
+.content {
+  margin-block-end: 50px;
+}
+
+.content__text-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
 .content__title {
   margin-block-start: 40px;
   color: var(--accent-color);
