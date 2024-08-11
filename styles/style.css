@@ -135,12 +135,21 @@
 }
 
 .content {
-  margin-block-end: 50px;
+  margin-block-end: 80px;
 }
 
 .content__text-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 2fr;
+  gap: 20px;
+}
+
+.content__text-plain > .content__title {
+  width: 20%;
+}
+
+.content__pic-grid_title {
+  margin-block-end: 20px;
 }
 
 .content__title {
