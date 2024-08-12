@@ -152,6 +152,11 @@
   margin-block-end: 20px;
 }
 
+.content__title_no-margin {
+  color: var(--dec-color);
+  margin-block-end: 0px;
+}
+
 .content__paragraph-list {
   list-style-type: none;
   display: flex;
