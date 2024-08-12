@@ -38,7 +38,7 @@
   bottom: 10px;
   left: 10px;
   border-left: 1px solid var(--dec-color);
-  border-bottom: 1px солидный вар(--dec-color);
+  border-bottom: 1px solid var(--dec-color);
 }
 
 .decorated-zone::after {
