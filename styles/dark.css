@@ -11,3 +11,19 @@
   --bg-image: url('../images/cover-image-dark.png');
   --rec-sign-display: block;
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --title-color: #DB00FF;
+    --accent-color: #FF0070;
+    --dec-color: #FF0070;
+    --hover-brd-color: #FF0070;
+    --headings-text-color: #000028;
+    --headings-bg-color: #FF0070;
+    --main-text-color: #F1B2CE;
+    --link-shadow-color: #FF0070;
+    --bg-color: #000028;
+    --bg-image: url('../images/cover-image-dark.png');
+    --rec-sign-display: block;
+  }
+}
