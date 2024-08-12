@@ -11,3 +11,19 @@
   --bg-image: url('../images/cover-image-light.png');
   --rec-sign-display: none;
 }
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --title-color: #FFC2E6;
+    --accent-color: #FF0070;
+    --dec-color: #353430;
+    --hover-brd-color: #32312D66;
+    --headings-text-color: #353430;
+    --headings-bg-color: #FF8DCB;
+    --main-text-color: #353430;
+    --link-shadow-color: #FF8DCB;
+    --bg-color: #FFF1F7;
+    --bg-image: url('../images/cover-image-light.png');
+    --rec-sign-display: none;
+  }
+}
