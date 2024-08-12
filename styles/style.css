@@ -352,6 +352,9 @@
 
 @media (width >= 1024px) {
   .header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     padding-block-start: 20px;
     padding-block-end: 135px;
     min-height: 768px;
