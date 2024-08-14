@@ -149,7 +149,6 @@
 
 .content__title {
   color: var(--dec-color);
-  margin-block-end: 20px;
 }
 
 .content__title_no-margin {
