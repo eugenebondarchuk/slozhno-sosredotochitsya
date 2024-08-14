@@ -140,6 +140,9 @@
 
 .content {
   margin-block-end: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 .content__text-grid {
