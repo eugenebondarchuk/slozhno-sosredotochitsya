@@ -2,7 +2,7 @@
   --title-color: #DB00FF;
   --accent-color: #FF0070;
   --dec-color: #FF0070;
-  --hover-brd-color: #FF0070;
+  --hover-brd-color: rgba(255, 0, 112, 0.4);
   --headings-text-color: #000028;
   --headings-bg-color: #FF0070;
   --main-text-color: #F1B2CE;
@@ -17,7 +17,7 @@
     --title-color: #DB00FF;
     --accent-color: #FF0070;
     --dec-color: #FF0070;
-    --hover-brd-color: #FF0070;
+    --hover-brd-color: rgba(255, 0, 112, 0.4);
     --headings-text-color: #000028;
     --headings-bg-color: #FF0070;
     --main-text-color: #F1B2CE;
